@@ -31,3 +31,5 @@ pin occupancy:
 14 (SER) : digital pin 2
 
 16 (VCC) : 5V
+
+(sorry made it in german)
